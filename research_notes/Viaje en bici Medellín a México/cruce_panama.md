@@ -81,7 +81,7 @@ El velero sigue operando en el sentido Colombia→Panamá en 2026. Blue Sailing 
 - La pareja podría evitar el traslado en 4x4 bajando en Cartí y pedaleando hasta la Panamericana. Pero Blue Sailing llega a Porvenir, que es isla, así que hay que confirmar si la lancha a tierra firme (Cartí) acepta bicis. El "costo adicional de transportarlas a Ciudad de Panamá" que menciona Blue Sailing sugiere que el jeep cobra por bici.
 - Probablemente el sello de entrada a Panamá se hace en **El Porvenir** (Guna Yala), gestionado por el capitán, como en el sentido inverso. No hay una fuente explícita para el sentido Colombia→Panamá (ver Gaps).
 - Para colombianos, el capitán o agente tramita el sello de salida en Cartagena, así que no hace falta ir a una oficina de Migración Colombia en el Urabá.
-- **Época:** diciembre a abril tiene más viento y mar más fuerte en la travesía. De mayo a noviembre hay más lluvia, pero (según Food Travel Explore, en la sección 3) el velero evita así los meses más ventosos.
+- **Época:** diciembre a abril tiene más viento y mar más fuerte en la travesía. Mayo a noviembre trae más lluvia, pero menos viento.
 
 ### Gaps
 - Monto exacto del cargo por bicicleta de Blue Sailing y de otros capitanes en 2026. **[NO CONFIRMADO 2026]**
