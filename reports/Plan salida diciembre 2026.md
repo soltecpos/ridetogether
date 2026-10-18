@@ -2,10 +2,10 @@
 
 Escrito el 17 de octubre de 2026. Faltan unas 7 semanas para la salida, así que lo más importante es el orden de los trámites. El detalle y las fuentes de cada punto están en la [guía completa](Viaje%20en%20bici%20Medell%C3%ADn%20a%20M%C3%A9xico.md).
 
-## Tres decisiones para tomar ya
+## Decisiones (actualizado el 18 de octubre: el viaje va todo por tierra)
 
-1. **Cruzar a Panamá en avión (Copa, Medellín → Panamá).** En 7 semanas no hay margen para el Urabá más la lancha por San Blas. Además, de diciembre a abril el mar está bravo y el avión evita la profilaxis contra la malaria de Guna Yala. Son unos USD 880–1.180 los dos, con USD 150 por bici. Compren pronto, porque en diciembre los precios suben.
-2. **Saltarse Nicaragua y Honduras en avión, de San José a San Salvador.** Avianca vuela directo, en aproximadamente 1 h 15 min ([Expedia](https://www.expedia.com/cn/lp/flight-routes/avianca-from-juan-santamaria-intl-to-el-salvador-intl/av/sjo/sal)). La visa nicaragüense puede tardar "30 días o más" y vence a los 30 días, y allá revisan celulares y confiscan drones. Ese tiquete les sirve además como prueba de salida de Costa Rica.
+1. **Colombia → Panamá por mar con San Blas Adventures** (Sapzurro → Cartí, 5 días y 4 noches). Por tierra no hay paso, así que el mar es la única opción sin avión. Cuesta desde USD 545–595 por persona, más USD 100 por bici. Pidan por escrito la confirmación de **dos cupos para bici** en la fecha de diciembre, porque es temporada alta y de mar bravo. La alternativa es el velero de Blue Sailing desde Cartagena. Hablen con el médico de la profilaxis contra la malaria para Guna Yala.
+2. **Nicaragua por tierra, con plan B.** Hay que tramitar la visa consultada en línea. Si no sale a tiempo o la niegan, vuelan de San José a San Pedro Sula (Avianca directo, unos USD 120–200 por persona más las bicis) y siguen por tierra desde Honduras.
 3. **Pasar en bus la frontera Guatemala–México y el centro de Chiapas.** Es el tramo más peligroso de la ruta.
 
 ## Esta semana (17–24 de octubre): la ruta crítica
@@ -18,7 +18,8 @@ Escrito el 17 de octubre de 2026. Faltan unas 7 semanas para la salida, así que
 | ☐ | **Fiebre amarilla.** Revisen [MiVacuna](https://mivacuna.sispro.gov.co). Si no la tienen, vacúnense esta semana (es gratis en el PAI). | El certificado internacional es un requisito para pedir la visa de Costa Rica, y lo expiden en el CAVA. |
 | ☐ | **Cita de medicina del viajero:** sarampión, antirrábica (2 dosis, días 0 y 7), hepatitis A, tifoidea, Td y malaria. | La fiebre amarilla y el sarampión son vacunas vivas: se ponen el mismo día o con unas 4 semanas de diferencia. El médico decide, pero eso solo cabe antes de diciembre si empiezan ya. |
 | ☐ | **Antecedentes judiciales** para fines migratorios, **apostillados** en línea en Cancillería. | Se piden para la visa de Costa Rica. |
-| ☐ | **Comprar Medellín → Panamá** en Copa y confirmar los USD 150 por bici. | Los precios de diciembre suben. |
+| ☐ | **Reservar San Blas Adventures** con cupo confirmado para dos bicis. | Diciembre es temporada alta y los cupos para bici son limitados. |
+| ☐ | **Preguntarle a la Embajada de Costa Rica qué aceptan en lugar de la reserva de vuelo** si entran por tierra. | La visa pide una reserva de vuelo, pero ustedes llegan en bici por Paso Canoas. |
 
 ## Del 25 de octubre al 15 de noviembre
 
@@ -32,22 +33,23 @@ Escrito el 17 de octubre de 2026. Faltan unas 7 semanas para la salida, así que
 ## Del 15 de noviembre a la salida
 
 - ☐ Ir a la cita de la visa de Costa Rica en Bogotá, si no fue antes.
-- ☐ Con la visa aprobada, comprar el vuelo San José → San Salvador y confirmar con Avianca la tarifa y el embalaje para las bicis. Las fuentes no lo aclaran.
+- ☐ Solicitar la visa consultada de Nicaragua en tramitesconsulares.mint.gob.ni. La visa vence a los 30 días de notificada y el trámite puede tardar 30 días o más. Pregúntenle al consulado cuándo conviene pedirla para entrar hacia el 18 de enero.
 - ☐ Reunir extractos bancarios recientes de cada uno (USD 500 por persona para Panamá) y una carta laboral o prueba de arraigo.
 - ☐ Preparar 4 copias del pasaporte por persona y subir todo escaneado a Drive, junto con las fotos de seriales y facturas.
 - ☐ Llevar dólares en billetes pequeños y una reserva de efectivo en dos lugares.
 - ☐ Dos semanas antes, reconfirmar cada requisito en las páginas oficiales de la guía.
 
-## Calendario tentativo (con salida el 10 de diciembre)
+## Calendario tentativo (todo por tierra, con salida el 10 de diciembre)
 
 | Fechas | Tramo | Nota |
 |---|---|---|
-| 10 dic | Vuelo Medellín → Panamá | 2–3 días para armar las bicis, comprar chip y descansar |
-| 13–22 dic | Ciudad de Panamá → Paso Canoas (≈490 km) | Empieza la estación seca |
-| 23 dic – ≈12 ene | Costa Rica (≈350–400 km hasta San José) | Navidad y Año Nuevo allá. Es temporada alta: reserven alojamiento. Menos de 30 días en el país. |
-| ≈12 ene | Vuelo San José → San Salvador | **Empieza el reloj de 90 días del CA-4** |
+| 10–11 dic | Bus Medellín → Necoclí con las bicis, lancha a Capurganá y sello de salida de Colombia | En el Urabá, nunca durante un paro armado |
+| 12–16 dic | San Blas Adventures: Sapzurro → Puerto Obaldía (entrada a Panamá) → islas → Cartí | Lleven 4 copias del pasaporte por persona |
+| 17–28 dic | Cartí → Ciudad de Panamá → Paso Canoas (≈100 + 490 km) | Empieza la estación seca |
+| 29 dic – ≈18 ene | Costa Rica (≈350–400 km hasta Peñas Blancas) | Año Nuevo allá. Es temporada alta: reserven alojamiento. Menos de 30 días en el país. |
+| ≈18 ene | Peñas Blancas → Nicaragua (≈330 km) → Honduras → El Salvador | **Empieza el reloj de 90 días del CA-4.** Plan B: vuelo San José → San Pedro Sula. |
 | enero – febrero | El Salvador y Guatemala (Antigua, Atitlán, Xela) | Unos 55 de los 90 días |
 | inicio de marzo | Bus de Xela o Huehuetenango a San Cristóbal de las Casas | Se evita la franja fronteriza |
 | marzo – abril | Chiapas → Oaxaca → Puebla → Ciudad de México → Querétaro / Bajío | Bus en los tramos con alertas (Cintalapa, autopista 57D). DNR probable de MXN 1.158. |
 
-**Margen de la visa de Costa Rica:** si se la emiten a mediados de noviembre, sus 60 días hábiles vencen hacia el 9–16 de febrero de 2027. Entrarían alrededor del 22 de diciembre, así que el margen es amplio.
+**Margen de la visa de Costa Rica:** si se la emiten a mediados de noviembre, sus 60 días hábiles vencen hacia el 9–16 de febrero de 2027. Entrarían alrededor del 29 de diciembre, así que el margen es amplio.
